@@ -1,0 +1,3 @@
+trained_weights (v1): 300 epocas con las 300 imágenes de entrenamiento y validación y 30 de testeo
+trained_weights2 (v2): 400 epocas con las 300 imágenes de entrenamiento y validación y 30 de testeo
+trained_weights3 (v3): 500 epocas con las 300 imágenes de entrenamiento y validación y 30 de testeo

@@ -1,0 +1,11 @@
+
+# train and val data as 1) directory: path/images/, 2) file: path/images.txt, or 3) list: [path1/images/, path2/images/]
+train:
+val: ../Samples_YOLOv7/test
+
+#Classes
+nc: 2 # replace according to your number of classes
+
+#classes names
+#replace all class names list with your classes names
+names: ['semillas', 'basura'] 
